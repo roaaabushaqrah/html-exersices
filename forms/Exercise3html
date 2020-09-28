@@ -1,0 +1,49 @@
+<html>
+<head>
+<title>
+Exercise #3: Subscription form
+</title>
+<body>
+<fieldset>
+<legend>
+personal detail</legend>
+<form>
+<label> First Name:</label>
+<input type="text"><br>
+<label> LastName:</label>
+<input type="text"><br>
+<label> Email:</label>
+<input type="email"> <br>
+<label> Gender:</label>
+<input type="radio" name="sex"> male
+<input type="radio" name="sex"> female
+</fieldset>
+
+<fieldset>
+<legend>Magazines</legend>
+<input type="checkbox" name="s">stavanger Aftenblad <br>
+
+<input type="checkbox" name="s">Teknisk Ukeblad <br>
+
+ <input type="checkbox" name="s">Se og Hor<br>
+ 
+ </fieldset>
+ <fieldset>
+<legend>Subscription</legend>
+   
+
+<label> Period:</label>
+
+<select>
+<option>6months</optin>
+<option>12months</option>
+<option>18months</option>
+<option>24months</option>
+</select> <br>
+<input type="submit" value="subscribe"> 
+</fieldset>
+ 
+<body></html>
+
+
+

@@ -1,0 +1,13 @@
+<form  >
+<label  style="text-align:center;" > First Name:</label>
+<input type="text"><br>
+<label> LastName:</label>
+<input type="text"><br>
+<label > Email:</label>
+<input type="email"> <br>
+<label > Gender:</label>
+<input type="radio" name="sex"> male
+<input type="radio" name="sex"> female
+
+<input type="color" id="favcolor" name="favcolor">
+
