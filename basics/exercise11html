@@ -1,0 +1,22 @@
+<html>
+<head>
+<title> What's UP</title>
+
+
+</head>
+
+<body>
+<h1>How do you feel?</h1>
+<table border="1" style="width:50%";  >
+<tr  >
+
+<td> <a href = "http://sadsite.com " target="_blank"><img src="sadface.png"alt="sad" style="width:128x;height:128px;"> </a></td>
+<td>  <a href = " http://happysite.com." target="_blank"><img src="happyface.png" alt="happy" style="width:128x;height:128px;"></td>
+</tr> 
+ <td colspan="2" > If you wanted an intelligent answer, you Should have given me an intelligent question.</td>
+
+</tr>
+
+</table>
+
+

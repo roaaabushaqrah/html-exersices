@@ -1,0 +1,26 @@
+<html>
+<head>
+</head>
+<body>
+<table border="1">
+<tr>
+<td><a href="https://www.google.com/search?q=italy&sxsrf=ALeKk0383okdk2nBC1qRYpEFLIShCQuT7Q:1601314781915&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjvov-1sozsAhU0oVwKHX0ACOcQ_AUoAXoECBwQAw&biw=1848&bih=812#imgrc=ulU6qo-2ZUFrCM"> <img src="italy.jpg" alt="Italy"> </a></td>
+
+<td>  <a href="https://en.wikipedia.org/wiki/Italy">Italy</a></td>
+</tr>
+
+
+<tr>
+<td> <a href="https://www.google.com/search?q=spain&tbm=isch&ved=2ahUKEwjnm8K3sozsAhUX-xoKHZJjDIYQ2-cCegQIABAA&oq&gs_lcp=CgNpbWcQARgCMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnUKSxA1iksQNg8bwDaAFwAHgAgAEAiAEAkgEAmAEAoAEBqgELZ3dzLXdpei1pbWewAQnAAQE&sclient=img&ei=4R9yX6enBpf2a5LHsbAI&bih=812&biw=1848#imgrc=DvOVcb62QrFmhM"> <img src="spain.jpg" alt="spain"style="width:100%"></a></td>
+<td><a href ="https://en.wikipedia.org/wiki/Spain"  > spain</a> </td>
+</tr>
+
+
+<tr>
+
+<td> <a href="https://www.google.com/search?q=rome&tbm=isch&ved=2ahUKEwiKoq3TsozsAhXB_IUKHX38CbsQ2-cCegQIABAA&oq&gs_lcp=CgNpbWcQARgCMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnUI_0IFiP9CBgk_4gaAFwAHgAgAEAiAEAkgEAmAEAoAEBqgELZ3dzLXdpei1pbWewAQnAAQE&sclient=img&ei=GyByX8qoHcH5lwT9-KfYCw&bih=812&biw=1848#imgrc=DpbsYb_bWx0HMM"><img src="roma.jpg" alt="roma" style="width:100%"></a></td>
+<td> <a href="https://en.wikipedia.org/wiki/Rome"> Roma</a>
+</tr>
+
+</table> 
+

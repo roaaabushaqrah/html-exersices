@@ -30,23 +30,43 @@
 
 
 <table border="1">
+<thead>
+ <tbody>
+ 
 <tr>
-<td colspan="2"> Row1-2,Col1</td>
+<td rowspan="2"> Row1-2,Col1</td>
 <td> Row1,Col2</td>
-<td>Row1,Col3</td>
+<td >Row1,Col3</td>
 <td>Row1,Col4</td>
 </tr>
+
+
+
 <tr>
-<td> Row3,Col1</td>
-<td rowspan="5">Row2-3,Col2-3</td>
-<td> Row2,Col4</td>
+
+<td colspan="2" rowspan="2" > Row2-3,Col2-3</td>
+<td> Row2,col4</td>
+
 </tr>
+
+
+
 <tr> 
-<td> Row4,Col1</td>
-<td> Row4,Col2</td>
-<td rowspan="5">  Row4,Col3-4</td>
+<td> Row3,col1</td>
+<td> Row3,Col4</td>
 </tr>
+ </tbody>
+</thead>
+<tfoot>
+<tr>
+<td> Row4,Col1</td>
+<td >Row4,Col2</td>
+<td colspan="2">Row4,Col3-4 </td>
+</tr>
+</tfoot>
 </table>
+</body>
+</html>
 
 
 
